@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616621451530",
+    "project_id": "studydegrees",
+    "storage_bucket": "studydegrees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616621451530:android:55e198611b5c1c8892b2f3",
+        "android_client_info": {
+          "package_name": "com.herokuapp.zaidbashir.studydegrees.studydegrees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616621451530-743ac6uqr6jr9dmcojt3bpvuvio8qt1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.herokuapp.zaidbashir.studydegrees.studydegrees",
+            "certificate_hash": "e3fc6083f583954c49d2e8a970c511e4938842cb"
+          }
+        },
+        {
+          "client_id": "616621451530-njdevun1tm87idbcbbngld14ctjpcpae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLb5d305BvW0HVU_l1C4FkpJ1DoKmOiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616621451530-njdevun1tm87idbcbbngld14ctjpcpae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

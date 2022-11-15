@@ -1,0 +1,35 @@
+{
+  "name": "studydegrees",
+  "short_name": "studydegrees",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#hexcode",
+  "theme_color": "#hexcode",
+  "description": "A new Generation Edtech Created by Zaid Bashir.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
