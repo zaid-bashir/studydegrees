@@ -68,7 +68,8 @@ Here is a List of Tech Stacks used to Build the Project
 ![SD4](https://user-images.githubusercontent.com/53346938/203715368-a13f9bb1-8c2a-4f4d-8097-d467d68119e6.jpg)
 ![SD5](https://user-images.githubusercontent.com/53346938/203715380-65238036-c435-4d30-b87e-faf27af273f1.jpg)
 ![SD6](https://user-images.githubusercontent.com/53346938/203715387-afad1abd-e84d-460a-b3da-a044357af504.jpg)
-![SD7](https://user-images.githubusercontent.com/53346938/203715400-0aaeddeb-4017-4de6-bc36-e0ab2b3264bc.jpg)
+![SD7 (1)](https://user-images.githubusercontent.com/53346938/203716628-8de3105b-1b12-4628-88a3-a0a332db7b0a.jpg)
+
 ![SD8](https://user-images.githubusercontent.com/53346938/203715411-06e9c47e-e1e5-4374-99c7-b990b5544299.jpg)
 ![SD9](https://user-images.githubusercontent.com/53346938/203715414-9fbdde52-11cc-433f-a0a0-be8a794ebfa7.jpg)
 ![SD10](https://user-images.githubusercontent.com/53346938/203715425-354296f3-fca1-46e7-a4a3-c5077cae71f1.jpg)
